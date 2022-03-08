@@ -2,4 +2,6 @@ apple
 pear
 plum-apricot
 strawberry
-
+banana
+orange
+kiwi
